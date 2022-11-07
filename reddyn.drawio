@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T10:37:11.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aWXeqsclcxxO1Mpjqwm6" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-07T10:44:14.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="r9DKm-TQwvd-LT1MMoxD" version="20.4.0" type="github" pages="2">
   <diagram name="Niet ideaal" id="j1g4LOnBbL9r3tkUBIQZ">
     <mxGraphModel dx="1550" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -95,17 +95,22 @@
         <mxCell id="_5LgtKsOdZagm4WOapnU-15" value="Resultaten" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_5LgtKsOdZagm4WOapnU-13">
           <mxGeometry x="330" y="174" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BeQmz6GaIfg1BhTtczLm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwM4DcF1UAjrXOBzsf48-1" target="BeQmz6GaIfg1BhTtczLm-12">
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NwM4DcF1UAjrXOBzsf48-1" target="BeQmz6GaIfg1BhTtczLm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-28" value="Read" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BeQmz6GaIfg1BhTtczLm-15">
+          <mxGeometry x="-0.3033" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NwM4DcF1UAjrXOBzsf48-1" value="Cache laag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="210" width="1220" height="140" as="geometry" />
+          <mxGeometry x="490" y="210" width="760" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-1" value="Asset view" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-2" value="Checklijsten laag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.701;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BeQmz6GaIfg1BhTtczLm-4" target="BeQmz6GaIfg1BhTtczLm-12">
           <mxGeometry relative="1" as="geometry" />
@@ -114,13 +119,55 @@
           <mxGeometry x="870" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-9" value="Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-12" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="1220" height="90" as="geometry" />
+          <mxGeometry x="630" y="70" width="620" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeQmz6GaIfg1BhTtczLm-14" target="BeQmz6GaIfg1BhTtczLm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-19" value="Write" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BeQmz6GaIfg1BhTtczLm-17">
+          <mxGeometry x="0.1166" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-14" value="Asset endpoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="115" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="440" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BeQmz6GaIfg1BhTtczLm-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BeQmz6GaIfg1BhTtczLm-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="380" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BeQmz6GaIfg1BhTtczLm-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeQmz6GaIfg1BhTtczLm-20" target="NwM4DcF1UAjrXOBzsf48-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-20" value="Asset microservice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-30" value="Onderhoud en storingen app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-33" value="Asset sync" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
