@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T10:44:14.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="r9DKm-TQwvd-LT1MMoxD" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-07T11:04:32.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-9Mqd_cMy0A0m7H6RBUL" version="20.4.0" type="github" pages="2">
   <diagram name="Niet ideaal" id="j1g4LOnBbL9r3tkUBIQZ">
     <mxGraphModel dx="1550" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -66,11 +66,20 @@
         <mxCell id="NwM4DcF1UAjrXOBzsf48-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5LgtKsOdZagm4WOapnU-21" target="NwM4DcF1UAjrXOBzsf48-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5LgtKsOdZagm4WOapnU-21" value="Reddyn Database" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="370" y="413" width="340" height="140" as="geometry" />
+        <mxCell id="_5LgtKsOdZagm4WOapnU-21" value="Onze Database" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="380" y="413" width="340" height="227" as="geometry" />
         </mxCell>
         <mxCell id="_5LgtKsOdZagm4WOapnU-22" value="Vrije assets" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_5LgtKsOdZagm4WOapnU-21">
           <mxGeometry x="140" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-38" value="Conditiesregister" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_5LgtKsOdZagm4WOapnU-21">
+          <mxGeometry x="40" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-39" value="Normregister" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_5LgtKsOdZagm4WOapnU-21">
+          <mxGeometry x="240" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-41" value="Business rules" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_5LgtKsOdZagm4WOapnU-21">
+          <mxGeometry x="40" y="127" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NwM4DcF1UAjrXOBzsf48-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.047;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_5LgtKsOdZagm4WOapnU-3" target="NwM4DcF1UAjrXOBzsf48-1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +92,7 @@
             <mxPoint x="640" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5LgtKsOdZagm4WOapnU-13" value="SAP Storing en onderhoud data" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="_5LgtKsOdZagm4WOapnU-13" value="SAP Storing en onderhoud data" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="740" y="413" width="510" height="350" as="geometry" />
         </mxCell>
         <mxCell id="_5LgtKsOdZagm4WOapnU-19" value="Checklijsten" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_5LgtKsOdZagm4WOapnU-13">
@@ -119,7 +128,7 @@
           <mxGeometry x="870" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-9" value="Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-12" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="70" width="620" height="90" as="geometry" />
@@ -166,8 +175,17 @@
         <mxCell id="BeQmz6GaIfg1BhTtczLm-30" value="Onderhoud en storingen app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BeQmz6GaIfg1BhTtczLm-33" value="Asset sync" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-36" value="vrije domein app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-37" value="Conditiebepaling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-40" value="MOB genereren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQmz6GaIfg1BhTtczLm-43" value="TMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="570" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
