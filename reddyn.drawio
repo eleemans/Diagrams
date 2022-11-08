@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T09:50:48.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oWAD2JUjwUjqYL_ex_LC" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-08T10:01:38.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HnOOcxAHPl8xDf9a7rht" version="20.5.3" type="github" pages="2">
   <diagram name="Niet ideaal" id="j1g4LOnBbL9r3tkUBIQZ">
     <mxGraphModel dx="1549" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -176,19 +176,19 @@
           <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-30" value="Onderhoud en storingen app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="-50" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-36" value="vrije domein app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-37" value="Conditiebepaling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-40" value="MOP genereren" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQmz6GaIfg1BhTtczLm-43" value="TMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="100" y="570" width="60" height="80" as="geometry" />
+          <mxGeometry x="30" y="570" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kt1UTVkxQfZOqBA99ncq-1" value="MOP App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-130" width="120" height="60" as="geometry" />
