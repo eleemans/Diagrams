@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T17:30:18.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ttrwNzI4xeLr9tXKF6bf" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T17:44:14.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fA0h4rYD7tmZMoIlG6HE" version="20.6.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1234" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fFmarsjmrDfYMathBl-B-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="1240" height="650" as="geometry" />
+        </mxCell>
         <mxCell id="62893188c0fa7362-1" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
           <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -165,8 +168,10 @@
         <mxCell id="fFmarsjmrDfYMathBl-B-14" value="In-app extensibility apps" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" vertex="1" parent="fFmarsjmrDfYMathBl-B-7">
           <mxGeometry x="60" y="44" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-8" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Developer Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#5A32C8;" vertex="1" parent="1">
-          <mxGeometry x="603" y="1032" width="210" height="100" as="geometry" />
+        <mxCell id="fFmarsjmrDfYMathBl-B-8" value="&lt;font&gt;Developer Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#FFFFFF;fillColor=#C6B6FF;" vertex="1" parent="1">
+          <mxGeometry x="589" y="1032" width="237" height="100" as="geometry">
+            <mxRectangle x="603" y="1032" width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fFmarsjmrDfYMathBl-B-17" value="Abap development tools" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" vertex="1" parent="fFmarsjmrDfYMathBl-B-8">
           <mxGeometry x="67" y="45" width="60" height="30" as="geometry" />
