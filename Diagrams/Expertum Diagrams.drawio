@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T16:20:00.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fJZQuILZRy5xX912JMQD" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T16:23:15.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5EZpahGuvFRwGCkMBgEv" version="20.6.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1426" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9WeDrlPHKG-DsEHo6RS3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="80" y="600" width="960" height="640" as="geometry" />
+          <mxGeometry x="80" y="600" width="1140" height="640" as="geometry" />
         </mxCell>
         <mxCell id="9WeDrlPHKG-DsEHo6RS3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="100" y="610" width="800" height="80" as="geometry" />
@@ -141,6 +141,15 @@
         </mxCell>
         <mxCell id="fFmarsjmrDfYMathBl-B-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;On-stack development&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" vertex="1" parent="1">
           <mxGeometry x="140" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFmarsjmrDfYMathBl-B-7" value="In-app Extensibility" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#A3F7D5;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#A3F7D5;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1010" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fFmarsjmrDfYMathBl-B-8" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Developer Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#5A32C8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fFmarsjmrDfYMathBl-B-9" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Side-by-side Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#5A32C8;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1010" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
