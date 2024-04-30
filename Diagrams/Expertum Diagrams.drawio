@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T16:14:32.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8lsRzn_mAYulWQMaQO86" version="20.6.2" type="github"><diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">7Zxbc6s2EIB/jR+dAWQwfnSc20zbTKZu50wfFZAxjYwoyMdJf30lkDA3O3COiVVbkxkHrYQQux9aaSUYgcXm/TGB8fo34iM8sgz/fQTuRpZlTiyH/eOSj1ziuHYuCJLQF4X2gmX4LxJCQ0i3oY/SSkFKCKZhXBV6JIqQRysymCRkVy22Irh61RgGqCFYehA3pd9Cn66F1DSMfcYTCoO1uLRri4xX6L0FCdlG4noRiVCes4GyGlE0XUOf7EoicD8Ci4QQmh9t3hcIc7VKjeXnPRzILZqcoIh2OcGx3BkwXdczVnAKHGssavgO8VaoQTSUfki97NYhRcsYejy9Y7Yfgds13WCWMtlhduPIF6niBnkCw1eEbwvtLAgmCcvK9MOK0oS8Farm5Vckog9wE2JO0JIkUMgEKwwUcAtxGEQs4bE7RoksQLZJ1rw1pYwWywZz9sO0wH94gfQmICTACMZheuORTZbhpVnRh1V+SXYoL5q+IerxVhlFO2XjRxaw58BauCynqX2pTpRQ9F4SCWs8IrJBNGHXMkSuI+kXD41kalciUMKzLsHnCBkU0AdFzXvrswMBQEcYrBYYHEy5DmIYVahw/tlyZjPtj9PMPkzlhmnE75liZD47Cvj/TLGiMtauvL4860TAGRq4LsBNQBU4c3pO4sBwxC1I5Ic0JJHGTgHspq5K2E0a2D2TBg97gxtVEj4zN0zonI9HarKHkDdQqJqlhbVtlkaRXzuDSUrlWapU+m9E6YdIwy0lTEQSuiYBiSD+lZBYMvpD4KnIWSrbc2QIw1QaIHqgjOhnkF8ZAh6kdWzcAMOwqsSKOhKEIQ2/VweNbXSK2l9IyO5mX4SsVilrZx3fohE/RrTdIPovNpbWSF8u0lZ/pO1ZheixaaqMtKvHBtcxNgBWdWxgueccG8w0dteBnT1RCTsZBxiCu7k3CHSGhq5/vGemFHRt4T8N3aVB57pKQTdgmFF7WJW4M50qd2Bmn5M7HWy8Eu4mM6W4a0YbdWzmC2Mz5Yfn1IEa4cqOBmpEHKNHoKYaeCwAUjNMYzZDjzqYfj10z36SbsXhdnTffal0gw50y6hMH7wdiXTRfyu9cmROdf99zYSbvQk3rVmVcImQooA3F5J0H34hhLtdCO+/UmqZjvu/GoM3F610H35FhPff3mK5k9o43FIZcKu5OibXF/RCwhfu4qtvVj7rbmW9eHUNzBVb4tWAbsDFKw2dMtBNGq9lnBW6AVeuNHTKQGe7SkGnl60udlIhB/vHNxj3jH0aNyaYgtq02VF6VqGXrq6b8J6xzxbCFQdcL19dLuFdovtyutKdcMMA9T5c7ciQXr66bsJ7xj5V78Nn39Bdgl+efnkc36X3T8T5fQla3lf9hPBP5mlVs3Wb4PQg8MTE1ak+MK9qAezwjujqTMtpmWnNnLaZ1uQEU61WEzeHokdMbJ7OxP0n4ANbd8W6yhJ/9w7/O43Vi0+5SLObTbO7RovZ3aGs3hyfyUjMFu+DMLkEh6Xdxul2g5JxkEAf8XbF3BJFCGdfsnnunylKWFmDbGkaZieTFftZzl/4Lzt58jR/nnes7DnvLy1jQ15D3KklTFi+tevtxWqcFy3k5dr4l8EujFb0NI9Doxe0mo+DPR0o3tT6ODTHchIbrpVOcU7nQJzzj3wQwT8+RbYxb3zkj7KPSbFHKa7FQPOrHWCUKZzWQGzrUcv2FaJGvJKbL/QgnouMTej7/DKt5B8JrrbArwTiVZRrw8Gf68prL286oLnFv82Bg6HQbXttWPvvYf339Oz++8hbu9qBawf+xQ58enYHfuSFYu3BtQc/5sGn5/bgre8laxc+rAt3z+/CD2+u0C5cu/AvduHu+V14W7BZu3Dtwj934e5wLpwl91/JzpdV9l8hB/f/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2024-04-30T16:20:00.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fJZQuILZRy5xX912JMQD" version="20.6.2" type="github">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="1426" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62893188c0fa7362-1" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Sora&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="780" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-4" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-3" edge="1">
+          <mxGeometry x="-0.3002" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-5" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-2" edge="1">
+          <mxGeometry x="-0.359" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-9" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-11" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-12" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="160" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-13" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Condition&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="490" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-14" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-8" edge="1">
+          <mxGeometry x="-0.2" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-15" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-9" edge="1">
+          <mxGeometry x="-0.2" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-16" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-10" edge="1">
+          <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-17" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-11" edge="1">
+          <mxGeometry x="-0.1294" y="17" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-18" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-8" target="62893188c0fa7362-12" edge="1">
+          <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-19" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-8" target="62893188c0fa7362-13" edge="1">
+          <mxGeometry x="-0.2842" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-20" value="Action" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="250" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="410" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Action&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="580" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-24" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-20" edge="1">
+          <mxGeometry x="0.1373" y="-16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-25" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-21" edge="1">
+          <mxGeometry x="0.1373" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-26" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-13" target="62893188c0fa7362-22" edge="1">
+          <mxGeometry x="0.0033" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-27" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Sora;fontSize=10;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;shadow=0;strokeColor=#5A32C8;" parent="1" source="62893188c0fa7362-13" target="62893188c0fa7362-23" edge="1">
+          <mxGeometry x="0.1373" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="960" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="100" y="610" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-6" value="&lt;ul&gt;&lt;li&gt;Consumer-grade apps&lt;/li&gt;&lt;li&gt;Users outside of SAP S/4HANA&lt;/li&gt;&lt;li&gt;Native mobile apps&lt;/li&gt;&lt;li&gt;SaaS Solutions&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="620" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Target group and consumption&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="140" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-9" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="100" y="710" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-10" value="&lt;ul&gt;&lt;li&gt;Independent of SAP S/4HANA infrastructure and operations&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Scalability&lt;/li&gt;&lt;li&gt;Downtimes&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="720" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Infrastructure and operations&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="140" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="100" y="810" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-13" value="&lt;ul&gt;&lt;li&gt;Tightly coupled extensions&lt;/li&gt;&lt;li&gt;SAP S/4HANA contains most data&lt;/li&gt;&lt;li&gt;Transactional consistency required&lt;/li&gt;&lt;li&gt;Custom API for side-by-side extensibility&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="820" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WeDrlPHKG-DsEHo6RS3-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;System of records and transaction&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" parent="1" vertex="1">
+          <mxGeometry x="140" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFmarsjmrDfYMathBl-B-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="910" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fFmarsjmrDfYMathBl-B-2" value="&lt;ul&gt;&lt;li&gt;Simple extensions like UI adaptations or custom fields&lt;/li&gt;&lt;li&gt;S/4 analytical views&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFmarsjmrDfYMathBl-B-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;On-stack development&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" vertex="1" parent="1">
+          <mxGeometry x="140" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
