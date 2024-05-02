@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T17:44:14.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fA0h4rYD7tmZMoIlG6HE" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T09:39:23.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qqKOcHcda_vcUyiawPc-" version="24.3.1" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="1234" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fFmarsjmrDfYMathBl-B-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="10" y="560" width="1240" height="650" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-1" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Sora;fontSize=10;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;sketch=0;strokeColor=#5A32C8;" parent="1" vertex="1">
@@ -112,10 +112,10 @@
         <mxCell id="9WeDrlPHKG-DsEHo6RS3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="100" y="610" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="9WeDrlPHKG-DsEHo6RS3-6" target="fFmarsjmrDfYMathBl-B-9">
+        <mxCell id="fFmarsjmrDfYMathBl-B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="9WeDrlPHKG-DsEHo6RS3-6" target="fFmarsjmrDfYMathBl-B-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Sora;fontColor=#5A32C8;" vertex="1" connectable="0" parent="fFmarsjmrDfYMathBl-B-32">
+        <mxCell id="fFmarsjmrDfYMathBl-B-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Sora;fontColor=#5A32C8;" parent="fFmarsjmrDfYMathBl-B-32" vertex="1" connectable="0">
           <mxGeometry x="-0.5578" y="2" relative="1" as="geometry">
             <mxPoint x="-30" y="2" as="offset" />
           </mxGeometry>
@@ -138,54 +138,54 @@
         <mxCell id="9WeDrlPHKG-DsEHo6RS3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="100" y="810" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-22" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="9WeDrlPHKG-DsEHo6RS3-6" target="9WeDrlPHKG-DsEHo6RS3-10">
+        <mxCell id="fFmarsjmrDfYMathBl-B-22" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="9WeDrlPHKG-DsEHo6RS3-6" target="9WeDrlPHKG-DsEHo6RS3-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9WeDrlPHKG-DsEHo6RS3-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;System of records and transaction&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" parent="1" vertex="1">
           <mxGeometry x="140" y="835" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-23" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="9WeDrlPHKG-DsEHo6RS3-10" target="9WeDrlPHKG-DsEHo6RS3-13">
+        <mxCell id="fFmarsjmrDfYMathBl-B-23" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="9WeDrlPHKG-DsEHo6RS3-10" target="9WeDrlPHKG-DsEHo6RS3-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="100" y="910" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="fFmarsjmrDfYMathBl-B-2" target="fFmarsjmrDfYMathBl-B-7">
+        <mxCell id="fFmarsjmrDfYMathBl-B-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="fFmarsjmrDfYMathBl-B-2" target="fFmarsjmrDfYMathBl-B-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="fFmarsjmrDfYMathBl-B-2" target="fFmarsjmrDfYMathBl-B-8">
+        <mxCell id="fFmarsjmrDfYMathBl-B-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="fFmarsjmrDfYMathBl-B-2" target="fFmarsjmrDfYMathBl-B-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-2" value="&lt;ul&gt;&lt;li&gt;Simple extensions like UI adaptations or custom fields&lt;/li&gt;&lt;li&gt;S/4 analytical views&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-2" value="&lt;ul&gt;&lt;li&gt;Simple extensions like UI adaptations or custom fields&lt;/li&gt;&lt;li&gt;S/4 analytical views&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" parent="1" vertex="1">
           <mxGeometry x="280" y="920" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;On-stack development&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;On-stack development&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fontColor=#5A32C8;" parent="1" vertex="1">
           <mxGeometry x="140" y="935" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-7" value="In-app Extensibility" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#A3F7D5;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#A3F7D5;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-7" value="In-app Extensibility" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#A3F7D5;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#A3F7D5;" parent="1" vertex="1">
           <mxGeometry x="323" y="1032" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-14" value="In-app extensibility apps" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" vertex="1" parent="fFmarsjmrDfYMathBl-B-7">
+        <mxCell id="fFmarsjmrDfYMathBl-B-14" value="In-app extensibility apps" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="fFmarsjmrDfYMathBl-B-7" vertex="1">
           <mxGeometry x="60" y="44" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-8" value="&lt;font&gt;Developer Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#FFFFFF;fillColor=#C6B6FF;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-8" value="&lt;font&gt;Developer Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#FFFFFF;fillColor=#C6B6FF;" parent="1" vertex="1">
           <mxGeometry x="589" y="1032" width="237" height="100" as="geometry">
             <mxRectangle x="603" y="1032" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-17" value="Abap development tools" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" vertex="1" parent="fFmarsjmrDfYMathBl-B-8">
+        <mxCell id="fFmarsjmrDfYMathBl-B-17" value="Abap development tools" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="fFmarsjmrDfYMathBl-B-8" vertex="1">
           <mxGeometry x="67" y="45" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="9WeDrlPHKG-DsEHo6RS3-13" target="fFmarsjmrDfYMathBl-B-2">
+        <mxCell id="fFmarsjmrDfYMathBl-B-24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="9WeDrlPHKG-DsEHo6RS3-13" target="fFmarsjmrDfYMathBl-B-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9WeDrlPHKG-DsEHo6RS3-13" value="&lt;ul&gt;&lt;li&gt;Tightly coupled extensions&lt;/li&gt;&lt;li&gt;SAP S/4HANA contains most data&lt;/li&gt;&lt;li&gt;Transactional consistency required&lt;/li&gt;&lt;li&gt;Custom API for side-by-side extensibility&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=10;fillColor=#5A32C8;fontColor=#E6E6E6;align=left;" parent="1" vertex="1">
           <mxGeometry x="280" y="820" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-9" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Side-by-side Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#5A32C8;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-9" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Side-by-side Extensibility&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;fillColor=#5A32C8;" parent="1" vertex="1">
           <mxGeometry x="910" y="1033" width="290" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-20" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;exitX=0.877;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;spacing=0;" edge="1" parent="fFmarsjmrDfYMathBl-B-9">
+        <mxCell id="fFmarsjmrDfYMathBl-B-20" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;exitX=0.877;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;spacing=0;" parent="fFmarsjmrDfYMathBl-B-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="169.77999999999975" y="80.07999999999993" as="sourcePoint" />
             <mxPoint x="170" y="23" as="targetPoint" />
@@ -195,37 +195,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-21" value="SAP Build" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" vertex="1" parent="fFmarsjmrDfYMathBl-B-9">
+        <mxCell id="fFmarsjmrDfYMathBl-B-21" value="SAP Build" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="fFmarsjmrDfYMathBl-B-9" vertex="1">
           <mxGeometry x="200" y="44" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-18" value="Java, Node, Abap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" vertex="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-18" value="Java, Node, Abap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" vertex="1">
           <mxGeometry x="940" y="1076" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-19" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-19" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="880" as="sourcePoint" />
             <mxPoint x="810" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-34" value="Yes" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9WeDrlPHKG-DsEHo6RS3-10">
+        <mxCell id="fFmarsjmrDfYMathBl-B-34" value="Yes" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9WeDrlPHKG-DsEHo6RS3-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1055" y="750" as="sourcePoint" />
             <mxPoint x="855" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-35" value="Yes" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="fFmarsjmrDfYMathBl-B-35" value="No" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1055" y="850" as="sourcePoint" />
             <mxPoint x="850" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-36" value="No" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1055" y="949.5" as="sourcePoint" />
-            <mxPoint x="850" y="949.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fFmarsjmrDfYMathBl-B-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" edge="1" parent="1" source="9WeDrlPHKG-DsEHo6RS3-4" target="9WeDrlPHKG-DsEHo6RS3-4">
+        <mxCell id="fFmarsjmrDfYMathBl-B-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#5A32C8;strokeWidth=1;fontFamily=Sora;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSora;fontSize=16;fontColor=#5A32C8;" parent="1" source="9WeDrlPHKG-DsEHo6RS3-4" target="9WeDrlPHKG-DsEHo6RS3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
